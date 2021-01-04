@@ -34,7 +34,7 @@ namespace Globomantics_Lambda_Function
         /// <returns></returns>
         public async Task FunctionHandler(SQSEvent evnt, ILambdaContext context)
         {
-            foreach(var message in evnt.Records)
+            foreach(SQSEvent.SQSMessage message in evnt.Records)
             {
                 await ProcessMessageAsync(message, context);
             }

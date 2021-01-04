@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fh+c1NBVexj3kB4nwRE7SUbifKEW7kqxY34Z+AeZa2s6xPjVC/E/y8ZENTFw7YO/wVRD6myZSqgyjg7zdmHfsA==",
+  "success": true,
+  "projectFilePath": "/home/tfletcher/Git/Development/ASP.NET/MessageQueingWithAmazonSQS/Globomantics-Lambda-Function/Globomantics-Lambda-Function/Globomantics-Lambda-Function/Globomantics-Lambda-Function.csproj",
+  "expectedPackageFiles": [
+    "/home/tfletcher/.nuget/packages/amazon.lambda.core/1.2.0/amazon.lambda.core.1.2.0.nupkg.sha512",
+    "/home/tfletcher/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.1.0/amazon.lambda.serialization.systemtextjson.2.1.0.nupkg.sha512",
+    "/home/tfletcher/.nuget/packages/amazon.lambda.sqsevents/1.2.0/amazon.lambda.sqsevents.1.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

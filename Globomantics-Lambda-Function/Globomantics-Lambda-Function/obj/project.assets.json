@@ -87,34 +87,29 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\tom_f\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/home/tfletcher/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Git\\Development\\ASP.NET\\MessageQueuingWithAmazonSimpleQueueService\\Globomantics-Lambda-Function\\Globomantics-Lambda-Function\\Globomantics-Lambda-Function.csproj",
+      "projectUniqueName": "/home/tfletcher/Git/Development/ASP.NET/MessageQueingWithAmazonSQS/Globomantics-Lambda-Function/Globomantics-Lambda-Function/Globomantics-Lambda-Function/Globomantics-Lambda-Function.csproj",
       "projectName": "Globomantics-Lambda-Function",
-      "projectPath": "D:\\Git\\Development\\ASP.NET\\MessageQueuingWithAmazonSimpleQueueService\\Globomantics-Lambda-Function\\Globomantics-Lambda-Function\\Globomantics-Lambda-Function.csproj",
-      "packagesPath": "C:\\Users\\tom_f\\.nuget\\packages\\",
-      "outputPath": "D:\\Git\\Development\\ASP.NET\\MessageQueuingWithAmazonSimpleQueueService\\Globomantics-Lambda-Function\\Globomantics-Lambda-Function\\obj\\",
+      "projectPath": "/home/tfletcher/Git/Development/ASP.NET/MessageQueingWithAmazonSQS/Globomantics-Lambda-Function/Globomantics-Lambda-Function/Globomantics-Lambda-Function/Globomantics-Lambda-Function.csproj",
+      "packagesPath": "/home/tfletcher/.nuget/packages/",
+      "outputPath": "/home/tfletcher/Git/Development/ASP.NET/MessageQueingWithAmazonSQS/Globomantics-Lambda-Function/Globomantics-Lambda-Function/Globomantics-Lambda-Function/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\tom_f\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/tfletcher/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -126,6 +121,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Amazon.Lambda.Core": {
             "target": "Package",
@@ -155,7 +151,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
       }
     }
   }
